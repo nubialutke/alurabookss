@@ -4,6 +4,8 @@
     width: 24px;
     height: 24px;
     background-image: url(“../img/Menu.svg”);
+    background-repeat: no-repeat;
+    background-position: center;
     display: inline-block;
 }
 
@@ -17,4 +19,8 @@
 .container {
     display: flex;
     align-items: center;
-    }
+}
+
+.container__imagem {
+    padding: 1em;
+}
