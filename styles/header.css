@@ -16,13 +16,13 @@
 }
 
 .container {
-    width: 30px;
+    
     display: flex;
     align-items: center;
 }
 
 .container__imagem {
-    width: 30px;
+    
     padding: 1em;
 }
 
