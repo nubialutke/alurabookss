@@ -16,3 +16,8 @@
 .swiper-button-next {
     display: none;
 }
+
+.swiper-pagination {
+    position: initial;
+    margin: 0.5em 0;
+    }
